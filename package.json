@@ -1,0 +1,27 @@
+{
+  "name": "scss-starter-kit",
+  "version": "1.0.0",
+  "description": "Sass Starter",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engmmagdy/scss-starter-kit.git"
+  },
+  "author": "Code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engmmagdy/scss-starter-kit.git/issues"
+  },
+  "homepage": "https://github.com/engmmagdy/scss-starter-kit.git#readme",
+  "dependencies": {
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.69.7"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cssmin": "^0.2.0"
+  }
+}

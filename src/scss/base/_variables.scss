@@ -1,0 +1,31 @@
+:root {
+    --mont: "Tajawal", "Poppins";
+    --inter: "Tajawal", "Poppins";
+    --number-font : "Poppins";
+    --theme-font: var(--inter);
+    --theme-bg: #ffffff;
+    --theme-color: #444444;
+    --white: #ffffff;
+    --black: #000000;
+    --primary-color: #096e77;
+    --secondary-color: #222222;
+    --tertiary-color: #666666;
+    --quaternary-color: #096e77;
+    --quinary-color: #f5f5f5;
+    --transition: all 0.3s ease-in-out;
+    --shadow: 0px 4px 28px 0px rgba(163, 163, 163, 0.25);
+    --shadow-secondary: 0 0 31px rgba(0, 0, 0, 0.1);
+  }
+
+// paths
+$img-path: "../images";
+$font-path: "../fonts";
+//  selection background color
+$selection-color: #6effe9;
+
+$screen-xs: 0 !default;
+$screen-sm: 576px !default;
+$screen-md: 768px !default;
+$screen-lg: 1025px !default;
+$screen-xl: 1200px !default;
+$screen-wd: 1400px !default;
