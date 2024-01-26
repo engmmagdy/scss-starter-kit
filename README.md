@@ -15,7 +15,7 @@ This repository helps you to start any project with SCSS using the gulpJS librar
   npm install
 ```
 
-## Run scss starter kit
+- Run scss starter kit
 
 ```bash
   gulp watch
